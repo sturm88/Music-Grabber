@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music Grabber", "Music Grabber\Music Grabber.csproj", "{C00DE92E-35AD-4832-8E96-B4716F5B3D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00DE92E-35AD-4832-8E96-B4716F5B3D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00DE92E-35AD-4832-8E96-B4716F5B3D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00DE92E-35AD-4832-8E96-B4716F5B3D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00DE92E-35AD-4832-8E96-B4716F5B3D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A02B07-393A-4211-B282-E0CE891946D9}
+	EndGlobalSection
+EndGlobal
