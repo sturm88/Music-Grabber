@@ -90,7 +90,8 @@ namespace Music_Grabber
         {
             if (_validateConfiguration())
             {
-                BassNet.Registration("saxon_88@rambler.ru", "2X28330193738");
+                ///Register bass for only not for commercial use
+                BassNet.Registration("Your email", "Your code");
 
                 Bass.BASS_Init(-1, 44100, BASSInit.BASS_DEVICE_DEFAULT, IntPtr.Zero);
                 this.UrlStreams = new List<string>();
